@@ -20,11 +20,11 @@ public class FirstClass {
 // hello this is Dilek
 
     //Hi
-<<<<<<< HEAD
+
     //Mesude
-=======
+
     // hello it's me
 
 
->>>>>>> d33b136d04fd69915c35b15640abe3e6883ba8fe
+
 }
