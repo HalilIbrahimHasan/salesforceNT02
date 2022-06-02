@@ -4,6 +4,7 @@ public class FirstClass {
     public static void welcome(int n){
         if(n < 6){
             System.out.println(n + " Welcome to Java");
+            System.out.println("Mesude commited")
             welcome(n + 1);
         }
     }
